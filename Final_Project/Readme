@@ -1,5 +1,6 @@
 Here are the files for the final Project of Emotisense. I've made an ML model that detects Emotions in Real time taking inputs from a webcam live for real-time inference.
 Link to download the dataset is : https://www.kaggle.com/datasets/ananthu017/emotion-detection-fer
-Here are the Jupyter and Python files required to run the emotion detector. The Jupyter file includes my code to make the model. It eventually creates two files naming 'emotion_detector.h5' and 'emotion_detector.json' which the python file uses to rule the emotion detector.
+
+Here are the Jupyter and Python files required to run the emotion detector. The Jupyter file includes my code to make the model. It eventually creates two files naming 'emotion_detector.h5' and 'emotion_detector.json' which the python file uses to run the emotion detector.
 I've uploaded the .json file here but Github isnt allowing me to upload the .h5 file due to size constraints.
 My model ran at 88.91% accuracy after 100 epochs. It was able to detect the different emotions pretty descently.
