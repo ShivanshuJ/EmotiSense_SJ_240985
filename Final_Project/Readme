@@ -1,1 +1,5 @@
 Here are the files for the final Project of Emotisense. I've made an ML model that detects Emotions in Real time taking inputs from a webcam live for real-time inference.
+
+Link to download the dataset is : https://www.kaggle.com/datasets/ananthu017/emotion-detection-fer
+
+Here are the Jupyter and Python files required to run the emotion detector. 
